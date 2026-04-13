@@ -73,7 +73,7 @@ python main.py
 ## 📊 Results
 
 ### 🔹 Dataset Preview
-![Dataset](images/preprocessing/data_preview.png)
+![Dataset](images/preprocessing/processed_data.png)
 
 ### 🔹 Model Output
 ![Model Output](images/model/model_output.png)
