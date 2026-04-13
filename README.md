@@ -62,10 +62,10 @@ AI-Cybersecurity-Threat-Detection-System/
 
 ## ▶️ How to Run
 
-Step 1: Install dependencies
+Step 1: Install dependencies  
 pip install -r requirements.txt
 
-Step 2: Run the project
+Step 2: Run the project  
 python main.py
 
 ---
