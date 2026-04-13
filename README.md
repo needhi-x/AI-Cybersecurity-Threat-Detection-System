@@ -38,14 +38,16 @@ This project uses Machine Learning to:
 
 ## 📂 Project Structure
 
+```
 AI-Cybersecurity-Threat-Detection-System/
 │
-├── data/          → dataset
-├── src/           → source code
-├── images/        → screenshots
-├── outputs/       → generated results
-├── main.py        → main execution file
-├── README.md      → project documentation
+├── data/          → dataset  
+├── src/           → source code  
+├── images/        → screenshots  
+├── outputs/       → generated results  
+├── main.py        → main execution file  
+├── README.md      → project documentation  
+```
 
 ---
 
