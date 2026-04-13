@@ -40,12 +40,12 @@ This project uses Machine Learning to:
 
 AI-Cybersecurity-Threat-Detection-System/
 │
-├── data/          → dataset  
-├── src/           → source code  
-├── images/        → screenshots  
-├── outputs/       → generated results  
-├── main.py  
-├── README.md  
+├── data/          → dataset
+├── src/           → source code
+├── images/        → screenshots
+├── outputs/       → generated results
+├── main.py        → main execution file
+├── README.md      → project documentation
 
 ---
 
